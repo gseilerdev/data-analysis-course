@@ -16,7 +16,7 @@ Crea un gráfico de líneas mostrando la producción a lo largo del dataset. Pon
 - Piensa si conviene que el eje Y comience en 0 o no, según lo que quieras comunicarle a tu jefe.
 - `ax.set_xlabel()`, `ax.set_ylabel()`, `ax.set_title()`.
 
----
+
 
 ## Ejercicio 2 — Algo no cierra en el sensor de temperatura
 
